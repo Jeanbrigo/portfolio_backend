@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Stocks App - Check Price of any stock ticker",
+      "live": "https://jeanbrigo.github.io/Project-1/",
+      "git": "https://github.com/Jeanbrigo/Project-1",
+      "image": "https://i.imgur.com/XsGP6dV.jpg"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Sneakers App - Manage your sneaker collection",
+      "live": "https://sneakers-app.onrender.com",
+      "git": "https://github.com/Jeanbrigo/Project-2",
+      "image": "https://i.imgur.com/rFMaZY6.jpg"
     }
   ]
